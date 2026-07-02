@@ -16,7 +16,7 @@ Structured knowledge that agents can reason over. I am interested in the shift f
 
 ### Agentic product management
 
-Product work that moves from long static documents into PR-FAQs, prototypes, evals, and working systems. The goal is not to generate more artifacts. The goal is to make product thinking executable.
+Product work that moves from long static documents into Prototypes, evals, and working systems. The goal is not to generate more artifacts. The goal is to make product thinking executable.
 
 ### Prototype-first delivery
 
