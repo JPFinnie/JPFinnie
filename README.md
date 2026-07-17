@@ -16,9 +16,8 @@ I work in wealth and investing technology at CIBC Investor's Edge in Toronto, an
 
 **Things I've built**
 
-- [PRISM](https://github.com/JPFinnie/PRISM) — a deep context system for structured personal and organisational knowledge, the working proof of the "personal LLM wiki" idea
-- [Cerebro](https://github.com/JPFinnie/CerebroFinnie) — a local-first Obsidian vault plus generated graph snapshot for navigating knowledge over time ([public methodology](https://cerebro-finnie.vercel.app/docs))
-- Pulse-style financial decision engine — deterministic math produces ranked actions, scenario outcomes, and risk metrics, while AI explains the result in bounded language
+- [FinanceHermes](https://github.com/JPFinnie/FinanceHermes) — my most recent build: a finance-focused product prototype
+- [SixCut](https://github.com/JPFinnie/SixCut) — a product experiment in TypeScript, built prototype-first
 
 ## About Me
 
