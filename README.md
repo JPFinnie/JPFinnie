@@ -1,32 +1,39 @@
-# Hi, I'm James 👋
+# James Finnie
 
-I'm a product manager who ships working prototypes, not just documents. My work sits at the intersection of AI-native product, agentic engineering, and deep context systems.
+**Product manager by title. Builder by habit.**
 
-It all starts from a simple premise: when building gets cheaper, judgement matters more. The hard part is knowing what to build, why it should exist, and how to make the system legible enough that people can trust it.
+I make complicated systems easier to understand and more useful to the people inside them.
 
-I work in wealth and investing technology at CIBC Investor's Edge in Toronto, and I build in public where I can — most of it lives right here.
+Right now, I’m a Senior Product Manager at CIBC Investor’s Edge, working on wealth and investing technology. Before that, I worked across connected health, global trading, payments, FX, and identity. Different industries, same kind of problem: high stakes, messy constraints, and people who deserve something clearer than the system they inherited.
 
-**What I work on**
+I use code and AI to move product work out of documents and into things people can touch, challenge, and learn from. Most of what I build starts with a question I can’t quite leave alone.
 
-- Deep context systems: local-first notes → entity pages → knowledge graphs → agent-readable operating contracts
-- Agentic product management: product thinking that runs — prototypes, evals, and agent loops instead of static documents
-- Prototype-first delivery: from "should this exist?" to a working proof fast, then using the prototype to sharpen judgement
-- Personalisation in wealth technology: timely insight, appropriate nudges, and transparent tradeoffs
-- Decision engines with boundaries: deterministic math ranks actions and quantifies risk; AI explains the tradeoffs but never executes the trade
+## A few of those questions
 
-**Things I've built**
+### [Can a research agent show its work?](https://github.com/JPFinnie/FinanceHermes)
 
-- [FinanceHermes](https://github.com/JPFinnie/FinanceHermes) — my most recent build: a finance-focused product prototype
-- [SixCut](https://github.com/JPFinnie/SixCut) — a product experiment in TypeScript, built prototype-first
+**FinanceHermes** is a live financial-research agent built for a room of investment advisors. It plans the research, searches the web, reads its sources, and streams the full trace as it works. The answer matters; so does being able to see how it got there.
 
-## About Me
+### [What should an investor do next?](https://github.com/JPFinnie/PRISM)
 
-- **Senior Product Manager at CIBC Investor's Edge** — AI-native product, self-directed investing, prototype-first discovery, and personalisation in wealth technology
-- **Previously**: IoT and intelligent systems at Trudell Medical International (connected health, regulated software, IoMT data platforms), global trading platforms at StoneX, and payments, FX, and KYC automation at Equals Money
-- **How I work**: start with the why, build the smallest useful proof, keep deterministic logic where the stakes are high, and make agent context explicit, structured, and inspectable
+**PRISM** evaluates the possible moves across a Canadian investor’s portfolio—from TFSA optimisation and rebalancing to tax-loss harvesting—and surfaces the highest-value action. Deterministic maths makes the decision; AI explains it in plain English. That boundary is deliberate.
 
-Some of my work sits in regulated financial and healthcare contexts, so it's described here at the pattern level: context, prototypes, decision systems, and the product judgement around them.
+### [Where is my local butcher?](https://github.com/JPFinnie/SixCut)
 
-🌱 Building at the intersection of AI agents, deep context, or investing products? I'd love to compare notes.
+**The Six Cut** puts Toronto’s independent butchers on one map, with a transparent score derived from recent reviews. It is partly a local-discovery product, partly an experiment in explainable ranking, and partly evidence that software should sometimes just help you find a better steak.
+
+## How I think
+
+- **Build before certainty.** A working prototype creates a better conversation than another round of abstract alignment.
+- **Speed needs taste.** When almost anything can be generated, judgement is deciding what deserves to exist.
+- **Keep the important parts inspectable.** High-stakes maths should be deterministic. AI should explain its reasoning. People should be able to challenge both.
+- **Context is infrastructure.** Good agents—and good teams—need maintained knowledge, clear decisions, and an honest account of what is known.
+- **Ask why until the answer is useful.** The brief is rarely the problem. Finding the real problem is the work.
+
+## What I’m exploring now
+
+I’m interested in agentic product management: PR-FAQs that become prototypes, design systems that agents can actually use, evals that make quality visible, and deep-context systems that give both people and agents a durable understanding of the work.
+
+I’m based in Toronto after several years in London. If you’re thinking about AI-native products, investing tools, context systems, or a problem that would be easier to discuss with a prototype in front of us, I’d enjoy comparing notes.
 
 [Website](https://www.james-finnie.com/) · [LinkedIn](https://www.linkedin.com/in/james-finnie/) · [Email](mailto:james_finnie@icloud.com)
